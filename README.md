@@ -18,5 +18,5 @@ Usage
 ------------------------------------------------------------------------------
 
 ```
-jscodeshift -t https://rawgit.com/scalvert/qunit-expect-code-mod/master/qunit-expect-code-mod.js ./tests/
+jscodeshift -t https://raw.githubusercontent.com/jackson-dean/qunit-expect-codemod/master/qunit-expect-code-mod-codemod.js ./tests/
 ```
