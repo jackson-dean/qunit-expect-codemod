@@ -1,0 +1,35 @@
+{
+  "name": "qunit-expect-code-mod",
+  "version": "0.0.0",
+  "description": "A codemod script for qunit-expect-code-mod",
+  "keywords": [
+    "codemod",
+    "qunit",
+    "qunit-dom"
+  ],
+  "homepage": "https://github.com/scalvert/qunit-expect-code-mod#readme",
+  "bugs": {
+    "url": "https://github.com/scalvert/qunit-expect-code-mod/issues"
+  },
+  "license": "MIT",
+  "author": "Steve Calvert <steve.calvert@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scalvert/qunit-expect-code-mod.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jscodeshift": "^0.3.32"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "eslint": "^4.1.0",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "jest": "^21.0.0",
+    "prettier": "^1.7.4"
+  }
+}
