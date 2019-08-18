@@ -7,15 +7,15 @@
     "qunit",
     "qunit-dom"
   ],
-  "homepage": "https://github.com/scalvert/qunit-expect-code-mod#readme",
+  "homepage": "https://github.com/jackson-dean/qunit-expect-code-mod#readme",
   "bugs": {
-    "url": "https://github.com/scalvert/qunit-expect-code-mod/issues"
+    "url": "https://github.com/jackson-dean/qunit-expect-code-mod/issues"
   },
   "license": "MIT",
-  "author": "Steve Calvert <steve.calvert@gmail.com>",
+  "author": "Jackson Dean <jckson.dean@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scalvert/qunit-expect-code-mod.git"
+    "url": "git+https://github.com/jackson-dean/qunit-expect-code-mod.git"
   },
   "scripts": {
     "lint": "eslint .",
